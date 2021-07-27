@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JspEx" />
         <module name="dynamicWebJsp" />
+        <module name="repository" />
       </profile>
     </annotationProcessing>
   </component>

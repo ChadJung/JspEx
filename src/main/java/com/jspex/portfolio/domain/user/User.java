@@ -1,4 +1,4 @@
-package com.jspex.portfolio.domain;
+package com.jspex.portfolio.domain.user;
 
 public class User {
     private String userID;
